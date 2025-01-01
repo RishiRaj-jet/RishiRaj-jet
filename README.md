@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**RishiRaj-jet/RishiRaj-jet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hi, I’m Rishi Raj
+💻 Skills
+C | Python | Java | HTML | CSS
+Currently learning: JavaScript | Angular | React.js
+🎯 Interests
+Web development
+Cybersecurity and ethical hacking
+Gaming
+🚀 Currently diving into Full Stack Development, Pentesting, and Web Security
+🤝 Let’s collaborate on exciting projects and push the limits of tech together
+📩 You can reach me on LinkedIn: www.linkedin.com/in/rishi-raj-oruganti-1709a8259
